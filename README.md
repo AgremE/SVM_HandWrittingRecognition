@@ -18,4 +18,3 @@ python dataClassifier.py -c SVM
 
 To run on the face recognition dataset with different training data size, use -d faces and -t numTraining
 
-asdf
